@@ -1,0 +1,17 @@
+.header-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.logo {
+  height: 100px;
+  width: 150px;
+}
+
+.logo-container {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
